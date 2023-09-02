@@ -13,7 +13,7 @@ The code is organized into three main files, each corresponding to a specific as
 
 ## Getting Started
 
-Before running the code, ensure you have the necessary dependencies and data files available. The Siaya_DS used is also included but the Kenya-DS cannot be shared at this time.
+Before running the code, ensure you have the necessary dependencies and data files available. The Siaya DS is publicly available.
 
 ## Usage
 
